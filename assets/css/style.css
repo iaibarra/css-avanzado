@@ -46,9 +46,21 @@ aside {
   padding: 10px;
 }
 
+.titulo{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+
+.titulo img{
+  width: 40px;
+  padding: 5px;
+}
 .titulo h3 {
   display: none;
   color: #E2A200;
+  padding-top: 5px;
 }
 
 main {
